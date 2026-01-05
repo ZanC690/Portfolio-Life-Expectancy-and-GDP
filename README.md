@@ -42,7 +42,3 @@ Key Findings
 
 How to Run
 1.	Open the notebook file (life_expectancy_gdp.ipynb) in Jupyter Notebook or JupyterLab.
-2.	Run each cell in order to see the analysis and visualizations.
-3.	Make sure the data file (all_data.csv) is in the same folder as the notebook.
-
-
